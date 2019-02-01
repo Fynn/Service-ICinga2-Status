@@ -1,0 +1,1 @@
+# javascript-icinga2_status
