@@ -12,9 +12,9 @@ const yellow = new Gpio(27, 'out');
 const green = new Gpio(22, 'out');
 
 //variables
-var url = 'https://monitoring.dev02.loom-technologies.com:5665/v1/objects/services?joins=host&filter=service.state!=ServiceOK';
-var user = 'status';
-var password = 'bDQzuHMhxGDGbBUocJ99AjzHJTxqLpGpdXDk7eZB';
+var url = 'XXX';
+var user = 'XXX';
+var password = 'XXX';
 var serviceError;
 var serviceErrorID;
 var state; //STATES:  0=GREEN, 1=YELLOW, 2=RED
